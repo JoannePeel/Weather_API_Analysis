@@ -9,3 +9,8 @@ To run the complete script you will have to create a config file containing your
 - To load existing data click here: [weather_data.csv](weather_data.csv)
 
 ## Results
+
+![Latitude_vs_Longitude_data_points](Latitude_vs_Longitude_data_points.png)
+
+
+
