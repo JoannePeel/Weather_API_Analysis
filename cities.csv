@@ -1,0 +1,595 @@
+,Latitudes,Longitudes,City,Country code
+0,-56,82,busselton,au
+1,54,-20,vestmannaeyjar,is
+2,38,3,algiers,dz
+3,16,-55,bathsheba,bb
+4,-90,-42,ushuaia,ar
+5,-55,-78,punta arenas,cl
+6,-26,-51,uniao da victoria,br
+7,66,17,straumen,no
+8,23,77,ichhawar,in
+9,-1,-40,acarau,br
+10,-55,-62,ushuaia,ar
+11,72,43,ostrovnoy,ru
+12,-89,-3,hermanus,za
+13,-25,-81,taltal,cl
+14,-39,56,taolanaro,mg
+15,-20,-7,jamestown,sh
+16,3,-28,touros,br
+17,2,-9,harper,lr
+18,21,28,marawi,sd
+19,-50,64,saint-philippe,re
+20,28,-69,hamilton,bm
+21,-44,18,hermanus,za
+22,-83,41,port alfred,za
+23,26,-71,cockburn town,bs
+24,58,4,varhaug,no
+25,19,-29,ponta do sol,cv
+26,80,3,barentsburg,sj
+27,-6,88,meulaboh,id
+28,-7,-35,santa rita,br
+29,-18,11,opuwo,na
+30,-4,89,meulaboh,id
+31,66,72,nadym,ru
+32,24,67,keti bandar,pk
+33,-8,89,padang,id
+34,2,66,kudahuvadhoo,mv
+35,-71,10,hermanus,za
+36,10,87,batticaloa,lk
+37,41,74,ozgon,kg
+38,21,5,arlit,ne
+39,-78,36,port elizabeth,za
+40,56,90,nazarovo,ru
+41,-5,51,victoria,sc
+42,-26,75,bambous virieux,mu
+43,73,-56,upernavik,gl
+44,-71,-18,chuy,uy
+45,20,40,mecca,sa
+46,-23,-24,caravelas,br
+47,-70,54,east london,za
+48,-79,-69,ushuaia,ar
+49,89,-37,tasiilaq,gl
+50,6,25,zemio,cf
+51,38,-63,saint george,bm
+52,0,69,thinadhoo,mv
+53,-7,-12,georgetown,sh
+54,66,-76,iqaluit,ca
+55,15,-64,vieux-habitants,gp
+56,51,78,aksu,kz
+57,-86,-64,ushuaia,ar
+58,-38,-52,rocha,uy
+59,-35,77,bambous virieux,mu
+60,46,58,shubarshi,kz
+61,12,62,salalah,om
+62,-67,-59,ushuaia,ar
+63,74,17,longyearbyen,sj
+64,44,87,changji,cn
+65,-8,28,manono,cd
+66,-19,40,angoche,mz
+67,43,45,galashki,ru
+68,8,42,harer,et
+69,-66,56,taolanaro,mg
+70,-52,-6,cape town,za
+71,89,-49,upernavik,gl
+72,-23,-9,jamestown,sh
+73,13,-50,sinnamary,gf
+74,10,-73,agustin codazzi,co
+75,38,-17,camacha,pt
+76,-79,-62,ushuaia,ar
+77,49,15,chlum u trebone,cz
+78,65,-81,attawapiskat,ca
+79,-55,-65,ushuaia,ar
+80,64,-52,nuuk,gl
+81,-2,89,meulaboh,id
+82,-8,-4,jamestown,sh
+83,-80,43,port alfred,za
+84,58,-22,vestmannaeyjar,is
+85,-89,85,busselton,au
+86,-75,51,port alfred,za
+87,17,-31,ponta do sol,cv
+88,58,21,ventspils,lv
+89,35,20,methoni,gr
+90,84,90,dikson,ru
+91,-42,-36,cidreira,br
+92,-68,-83,punta arenas,cl
+93,-26,62,mahebourg,mu
+94,69,35,tumannyy,ru
+95,-39,-8,jamestown,sh
+96,74,57,belushya guba,ru
+97,68,-48,qasigiannguit,gl
+98,-11,-36,piacabucu,br
+99,13,-5,kimparana,ml
+100,67,77,novyy urengoy,ru
+101,-30,57,saint-philippe,re
+102,84,9,barentsburg,sj
+103,77,-14,illoqqortoormiut,gl
+104,-81,3,hermanus,za
+105,-20,-23,georgetown,sh
+106,88,-61,narsaq,gl
+107,-7,-40,assare,br
+108,-56,-47,mar del plata,ar
+109,-86,87,busselton,au
+110,-70,-14,cape town,za
+111,-16,55,cap malheureux,mu
+112,-19,-43,guanhaes,br
+113,37,36,ceyhan,tr
+114,-69,-21,mar del plata,ar
+115,20,85,nayagarh,in
+116,74,41,ostrovnoy,ru
+117,72,-17,illoqqortoormiut,gl
+118,11,-4,bobo dioulasso,bf
+119,85,46,belushya guba,ru
+120,48,46,chernyy yar,ru
+121,6,-37,itarema,br
+122,77,-47,ilulissat,gl
+123,69,61,amderma,ru
+124,-62,36,port alfred,za
+125,69,10,sorland,no
+126,-36,-46,cidreira,br
+127,-52,6,cape town,za
+128,84,-82,qaanaaq,gl
+129,88,-58,narsaq,gl
+130,38,71,leningradskiy,tj
+131,-78,14,bredasdorp,za
+132,55,51,novosheshminsk,ru
+133,-76,-17,cape town,za
+134,86,7,barentsburg,sj
+135,-25,31,witrivier,za
+136,46,-40,torbay,ca
+137,-74,60,taolanaro,mg
+138,-72,31,port elizabeth,za
+139,18,5,arlit,ne
+140,0,-45,carutapera,br
+141,44,-86,big rapids,us
+142,-60,-30,chuy,uy
+143,-41,-46,chuy,uy
+144,90,-27,illoqqortoormiut,gl
+145,51,67,derzhavinsk,kz
+146,-41,42,margate,za
+147,-30,-88,lebu,cl
+148,-46,-70,coihaique,cl
+149,-40,43,tsihombe,mg
+150,-43,76,mahebourg,mu
+151,1,74,viligili,mv
+152,-16,-49,pirenopolis,br
+153,-36,-82,lebu,cl
+154,19,-79,lucea,jm
+155,28,-28,ponta delgada,pt
+156,-71,24,bredasdorp,za
+157,76,-81,qaanaaq,gl
+158,52,59,energetik,ru
+159,67,-41,tasiilaq,gl
+160,-55,-23,cidreira,br
+161,-63,-84,punta arenas,cl
+162,-89,35,port elizabeth,za
+163,7,82,amparai,lk
+164,-14,52,sambava,mg
+165,-58,-82,punta arenas,cl
+166,-68,56,taolanaro,mg
+167,75,85,dikson,ru
+168,1,47,mogadishu,so
+169,-48,80,mahebourg,mu
+170,9,-43,saint-georges,gf
+171,33,7,tuggurt,dz
+172,-45,8,cape town,za
+173,-5,-30,cabedelo,br
+174,-21,8,henties bay,na
+175,60,-5,stromness,gb
+176,58,-87,attawapiskat,ca
+177,30,-43,ribeira grande,pt
+178,-80,-67,ushuaia,ar
+179,14,-84,rosita,ni
+180,54,-48,nanortalik,gl
+181,23,71,halvad,in
+182,23,11,gat,ly
+183,-72,39,port alfred,za
+184,3,-42,cururupu,br
+186,2,14,sembe,cg
+187,26,-4,taoudenni,ml
+188,29,-33,ribeira grande,pt
+189,-68,-27,mar del plata,ar
+190,-62,-21,chuy,uy
+191,-13,71,hithadhoo,mv
+192,11,-13,telimele,gn
+193,10,-2,wa,gh
+194,-68,-1,hermanus,za
+195,-57,-60,ushuaia,ar
+196,84,46,belushya guba,ru
+197,89,-2,barentsburg,sj
+198,52,-80,moose factory,ca
+199,6,72,ugoofaaru,mv
+200,56,14,kristianstad,se
+201,-51,-3,cape town,za
+202,39,16,amantea,it
+203,-40,85,busselton,au
+204,-35,-25,arraial do cabo,br
+205,-72,48,port alfred,za
+206,-82,-35,ushuaia,ar
+207,-82,-75,ushuaia,ar
+208,-72,11,hermanus,za
+209,-46,27,port elizabeth,za
+210,-72,-12,cape town,za
+211,25,79,jatara,in
+212,-38,-29,arraial do cabo,br
+213,90,81,dikson,ru
+214,-29,5,luderitz,na
+215,84,-88,qaanaaq,gl
+216,25,13,marzuq,ly
+217,-75,-87,punta arenas,cl
+218,22,87,jaleswar,in
+219,-42,-57,necochea,ar
+220,-80,60,taolanaro,mg
+221,-59,36,port alfred,za
+222,73,-35,tasiilaq,gl
+223,48,53,makat,kz
+224,60,78,strezhevoy,ru
+225,-30,-89,lebu,cl
+226,81,90,talnakh,ru
+227,-64,-21,chuy,uy
+228,75,-45,ilulissat,gl
+229,-53,75,souillac,mu
+230,75,-79,qaanaaq,gl
+231,-11,36,songea,tz
+232,-71,-45,ushuaia,ar
+233,-53,-65,ushuaia,ar
+234,-72,17,bredasdorp,za
+235,14,74,honavar,in
+236,28,-24,los llanos de aridane,es
+237,29,-90,estelle,us
+238,-31,54,taolanaro,mg
+239,-36,12,saldanha,za
+240,-87,20,bredasdorp,za
+241,-4,-34,touros,br
+242,-50,66,saint-philippe,re
+243,-7,-10,georgetown,sh
+244,25,67,karachi,pk
+245,-74,31,port elizabeth,za
+246,-36,2,luderitz,na
+247,-90,32,port elizabeth,za
+248,90,-80,qaanaaq,gl
+249,81,-86,qaanaaq,gl
+250,2,-12,buchanan,lr
+251,22,67,dwarka,in
+252,-16,32,mount darwin,zw
+253,21,-88,tizimin,mx
+254,-24,-80,antofagasta,cl
+255,20,89,harindanga,in
+256,-71,76,saint-philippe,re
+257,-59,45,east london,za
+258,32,10,nalut,ly
+259,-13,17,kuito,ao
+260,67,60,inta,ru
+261,-83,-31,ushuaia,ar
+262,22,15,bilma,ne
+263,-90,15,bredasdorp,za
+264,-27,-88,coquimbo,cl
+265,82,-64,narsaq,gl
+266,88,-4,barentsburg,sj
+267,11,-32,sao filipe,cv
+268,6,58,bandarbeyla,so
+269,31,-42,ribeira grande,pt
+270,-84,61,taolanaro,mg
+271,78,-36,tasiilaq,gl
+272,-54,48,tsihombe,mg
+273,-64,9,hermanus,za
+274,61,3,aras,no
+275,88,-22,illoqqortoormiut,gl
+276,88,83,dikson,ru
+277,-29,28,hlotse,ls
+278,-47,-51,mar del plata,ar
+279,26,29,asyut,eg
+280,34,-82,greenwood,us
+281,45,-12,muros,es
+282,32,81,joshimath,in
+283,48,-43,torbay,ca
+284,-6,-44,colinas,br
+285,59,1,lerwick,gb
+286,33,-69,hamilton,bm
+287,-65,77,saint-philippe,re
+288,15,7,dakoro,ne
+289,7,-36,itarema,br
+290,5,71,eydhafushi,mv
+291,28,2,adrar,dz
+292,11,-56,oistins,bb
+293,71,28,mehamn,no
+294,27,65,bela,pk
+295,86,6,barentsburg,sj
+296,60,1,lerwick,gb
+297,-86,-66,ushuaia,ar
+298,-58,82,busselton,au
+299,24,81,barhi,in
+300,39,-32,ribeira grande,pt
+301,-43,77,mahebourg,mu
+302,-26,-42,arraial do cabo,br
+303,16,-28,porto novo,cv
+304,-80,-71,ushuaia,ar
+305,64,-23,keflavik,is
+306,-34,68,mahebourg,mu
+307,-49,55,taolanaro,mg
+308,-73,69,taolanaro,mg
+309,46,57,beyneu,kz
+310,-83,21,bredasdorp,za
+311,-39,-38,cidreira,br
+312,-10,88,padang,id
+313,50,25,brody,ua
+314,-90,84,busselton,au
+315,69,54,iskateley,ru
+316,66,69,aksarka,ru
+317,4,-81,mosquera,co
+319,6,-82,la palma,pa
+320,64,52,sindor,ru
+321,35,-79,hope mills,us
+322,12,-33,sao filipe,cv
+323,-39,26,port elizabeth,za
+324,-90,51,port alfred,za
+325,-75,-33,ushuaia,ar
+326,53,25,slonim,by
+327,88,-12,illoqqortoormiut,gl
+328,-82,32,port elizabeth,za
+329,32,82,dharchula,in
+330,53,-22,vestmannaeyjar,is
+331,-16,64,grand gaube,mu
+332,39,-41,ribeira grande,pt
+333,-70,-42,ushuaia,ar
+334,76,-41,tasiilaq,gl
+335,68,-62,pangnirtung,ca
+336,55,79,zdvinsk,ru
+337,-63,-22,chuy,uy
+338,42,-8,real,pt
+339,70,28,mehamn,no
+340,63,55,voyvozh,ru
+341,-45,16,hermanus,za
+342,83,17,longyearbyen,sj
+343,-72,80,busselton,au
+344,-65,62,taolanaro,mg
+345,-74,81,busselton,au
+346,16,73,malwan,in
+347,29,-54,saint george,bm
+348,58,-86,attawapiskat,ca
+349,-35,-83,lebu,cl
+350,52,-16,dingle,ie
+351,-88,-62,ushuaia,ar
+352,12,21,am timan,td
+353,64,48,blagoyevo,ru
+354,58,65,azanka,ru
+355,-66,17,bredasdorp,za
+356,-84,76,busselton,au
+357,-44,46,tsihombe,mg
+358,-25,-37,sao joao da barra,br
+359,-68,-33,ushuaia,ar
+360,16,-10,nioro,ml
+361,-54,88,busselton,au
+362,-14,64,grand gaube,mu
+363,54,24,druskininkai,lt
+364,-57,-28,chuy,uy
+365,68,-22,bolungarvik,is
+366,-20,-66,potosi,bo
+367,19,74,manchar,in
+368,46,47,zenzeli,ru
+369,-29,87,carnarvon,au
+370,-22,-7,jamestown,sh
+371,-49,-52,mar del plata,ar
+372,88,50,belushya guba,ru
+373,-89,72,taolanaro,mg
+374,6,-39,itarema,br
+375,-41,62,saint-philippe,re
+376,-12,70,hithadhoo,mv
+377,28,-21,los llanos de aridane,es
+378,-90,-32,ushuaia,ar
+379,-11,14,sumbe,ao
+380,48,81,ayagoz,kz
+381,-13,-38,salvador,br
+382,77,8,barentsburg,sj
+383,22,-2,taoudenni,ml
+384,-68,-36,ushuaia,ar
+385,75,21,oksfjord,no
+386,-58,42,east london,za
+387,13,19,ati,td
+388,34,-61,saint george,bm
+389,60,59,kytlym,ru
+390,-85,-29,ushuaia,ar
+391,-31,63,souillac,mu
+392,-87,-55,ushuaia,ar
+393,-85,-35,ushuaia,ar
+394,31,28,marsa matruh,eg
+395,46,-19,muros,es
+396,-89,-88,ushuaia,ar
+397,65,19,umea,se
+398,-66,59,taolanaro,mg
+399,76,-17,illoqqortoormiut,gl
+400,-66,64,taolanaro,mg
+401,20,6,arlit,ne
+402,-89,59,port alfred,za
+403,-21,47,fianarantsoa,mg
+404,-20,43,morondava,mg
+405,-54,82,busselton,au
+406,51,15,bogatynia,pl
+407,6,83,wattegama,lk
+408,-58,77,souillac,mu
+409,74,-6,klaksvik,fo
+410,78,-26,illoqqortoormiut,gl
+411,88,-85,qaanaaq,gl
+412,40,-47,torbay,ca
+413,82,-88,qaanaaq,gl
+414,77,-75,qaanaaq,gl
+415,80,-84,qaanaaq,gl
+416,-14,-30,maceio,br
+417,25,-49,codrington,ag
+418,30,-19,los llanos de aridane,es
+419,-87,57,port alfred,za
+420,-78,-45,ushuaia,ar
+421,75,12,barentsburg,sj
+422,73,-69,clyde river,ca
+423,-36,48,tsihombe,mg
+424,80,-79,qaanaaq,gl
+425,3,84,hambantota,lk
+426,83,-42,ilulissat,gl
+427,53,50,samara,ru
+428,-73,81,busselton,au
+429,-48,-85,castro,cl
+430,9,43,jijiga,et
+431,51,75,ekibastuz,kz
+432,-73,24,bredasdorp,za
+433,53,-36,nanortalik,gl
+434,-66,-58,ushuaia,ar
+435,-82,85,busselton,au
+436,-9,82,hithadhoo,mv
+437,-42,-16,jamestown,sh
+438,70,84,karaul,ru
+439,-78,22,bredasdorp,za
+440,30,-79,edgewater,us
+441,24,-74,cockburn town,bs
+442,65,-82,attawapiskat,ca
+443,11,28,babanusah,sd
+444,-53,81,busselton,au
+445,44,-17,muros,es
+446,61,7,kaupanger,no
+447,35,-38,ribeira grande,pt
+448,-23,79,grand river south east,mu
+449,-10,79,hithadhoo,mv
+450,56,9,lind,dk
+451,-72,-63,ushuaia,ar
+452,-78,-85,punta arenas,cl
+453,-50,52,taolanaro,mg
+454,48,71,atasu,kz
+455,51,-76,chapais,ca
+456,-71,-13,cape town,za
+457,-66,74,saint-philippe,re
+458,70,63,amderma,ru
+459,64,32,muyezerskiy,ru
+460,78,17,longyearbyen,sj
+461,-2,80,hithadhoo,mv
+462,7,74,dhidhdhoo,mv
+463,23,-59,codrington,ag
+464,-69,58,taolanaro,mg
+465,47,4,autun,fr
+466,42,-2,arnedo,es
+467,-83,86,busselton,au
+468,38,16,melito di porto salvo,it
+469,64,-80,attawapiskat,ca
+470,11,31,abu jubayhah,sd
+471,-38,77,mahebourg,mu
+472,10,-6,tingrela,ci
+473,78,-58,upernavik,gl
+474,-47,-26,arraial do cabo,br
+475,31,-44,ribeira grande,pt
+476,8,-49,cayenne,gf
+477,-67,-38,ushuaia,ar
+478,-83,72,taolanaro,mg
+479,37,-28,horta,pt
+480,-27,-53,chapeco,br
+481,18,-88,san pedro,bz
+482,31,37,bayir,jo
+483,19,16,bilma,ne
+484,35,80,leh,in
+485,57,-52,paamiut,gl
+486,-83,75,busselton,au
+487,-84,30,kruisfontein,za
+488,18,-67,lajas,us
+489,-20,-75,camana,pe
+490,24,54,abu dhabi,ae
+491,-67,29,port elizabeth,za
+492,-74,-55,ushuaia,ar
+493,-80,-58,ushuaia,ar
+494,-59,-18,cidreira,br
+495,-77,83,busselton,au
+496,-87,-65,ushuaia,ar
+497,-81,-25,ushuaia,ar
+498,-24,32,phalaborwa,za
+499,46,-16,muros,es
+500,-9,84,hithadhoo,mv
+501,2,-2,axim,gh
+502,23,53,abu dhabi,ae
+503,-60,79,busselton,au
+504,48,-16,dingle,ie
+505,79,46,belushya guba,ru
+506,12,42,asayita,et
+507,-28,-79,coquimbo,cl
+508,-59,5,hermanus,za
+509,-21,84,hithadhoo,mv
+510,-33,-58,mercedes,uy
+511,-76,-74,ushuaia,ar
+512,13,67,kavaratti,in
+514,37,81,shache,cn
+515,34,89,lasa,cn
+516,34,-34,ribeira grande,pt
+517,-49,63,saint-philippe,re
+518,81,68,amderma,ru
+519,-89,-61,ushuaia,ar
+520,-42,-26,arraial do cabo,br
+521,19,-47,bathsheba,bb
+522,-17,81,hithadhoo,mv
+523,-42,-84,ancud,cl
+524,-37,-90,lebu,cl
+525,-28,4,luderitz,na
+526,29,-74,marsh harbour,bs
+527,5,57,bandarbeyla,so
+528,-33,-20,jamestown,sh
+529,-85,-73,ushuaia,ar
+530,-49,9,cape town,za
+531,88,-75,qaanaaq,gl
+532,-26,-46,peruibe,br
+533,20,-11,atar,mr
+534,76,40,ostrovnoy,ru
+535,68,86,igarka,ru
+536,21,-86,isla mujeres,mx
+537,34,-37,ribeira grande,pt
+538,-88,-21,ushuaia,ar
+539,66,-31,tasiilaq,gl
+540,27,1,adrar,dz
+541,6,-62,upata,ve
+542,86,78,dikson,ru
+543,76,-7,klaksvik,fo
+544,-34,33,margate,za
+545,-67,32,port elizabeth,za
+546,28,-5,tarudant,ma
+547,-80,-33,ushuaia,ar
+548,-17,73,quatre cocos,mu
+549,11,26,babanusah,sd
+550,58,66,nizhnyaya tavda,ru
+552,72,-66,clyde river,ca
+553,-67,18,bredasdorp,za
+554,66,13,leland,no
+555,35,-58,saint george,bm
+557,30,17,waddan,ly
+558,-52,59,taolanaro,mg
+559,27,67,johi,pk
+560,69,-19,dalvik,is
+561,-29,-81,coquimbo,cl
+562,51,29,chopovychi,ua
+563,-24,4,henties bay,na
+564,-48,87,busselton,au
+565,33,32,damietta,eg
+566,-76,70,taolanaro,mg
+567,-88,-51,ushuaia,ar
+568,75,57,belushya guba,ru
+569,88,-69,qaanaaq,gl
+570,-62,-57,ushuaia,ar
+571,-33,-56,paso de los toros,uy
+572,-12,53,sambava,mg
+573,89,49,belushya guba,ru
+574,60,-33,tasiilaq,gl
+575,81,11,barentsburg,sj
+576,-10,-1,jamestown,sh
+577,-24,-86,marcona,pe
+579,61,-82,attawapiskat,ca
+580,22,17,faya,td
+581,-61,8,hermanus,za
+582,-11,-84,chicama,pe
+583,-90,-65,ushuaia,ar
+584,-14,40,nacala,mz
+585,-17,-80,pisco,pe
+586,-34,-80,lebu,cl
+587,-30,-10,jamestown,sh
+588,-66,-87,punta arenas,cl
+589,66,29,kuusamo,fi
+590,12,77,yelandur,in
+591,-50,10,hermanus,za
+592,-29,67,mahebourg,mu
+593,52,-83,attawapiskat,ca
+594,54,11,neustadt,de
+595,-19,-85,pisco,pe
+596,-13,1,jamestown,sh
+597,-2,-30,touros,br
+598,-81,-29,ushuaia,ar
+599,50,-34,lagoa,pt
