@@ -10,7 +10,20 @@ To run the complete script you will have to create a config file containing your
 
 ## Results
 
-![Latitude_vs_Longitude_data_points](Latitude_vs_Longitude_data_points.png)
+![](https://github.com/JoannePeel/Weather_API_Analysis/blob/master/Latitude_vs_Longitude_data_points.png) 
+Fig. 1. Data points.
+
+![](https://github.com/JoannePeel/Weather_API_Analysis/blob/master/Latitude_vs_Longitude_temperature.png)
+Fig. 2. Temperature around the world
+
+![](https://github.com/JoannePeel/Weather_API_Analysis/blob/master/Latitude_vs_Longitude_humidity.png)
+Fig. 3. Humidity around the world
+
+![](https://github.com/JoannePeel/Weather_API_Analysis/blob/master/Latitude_vs_Longitude_cloud.png)
+Fig. 4. Cloudiness around the world
+
+![](https://github.com/JoannePeel/Weather_API_Analysis/blob/master/Latitude_vs_Longitude_wind.png)
+Fig. 5. Windspeed around the world
 
 
 
